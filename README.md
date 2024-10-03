@@ -1,3 +1,4 @@
+NON SKIP ADS AVERY 60 SECONDS
 ## How to Use
 
 ### 1. Clone the Repository
